@@ -13,7 +13,7 @@ public class hw03 {
 		for(int i=1;i>=0;i++){
 			x=x*(a-1);
 			if(x>10000){
-				System.out.println("i="+(i+1));
+				System.out.println(i+1);
 				break;
 			}
 		}
